@@ -1,3 +1,5 @@
+EDIT: modified the code for SH1106 display, instead of SSD1306.
+
 # OpenGBW
 
 This Project extends and adapts the original by Guillaume Besson
