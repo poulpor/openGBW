@@ -1,4 +1,4 @@
-EDIT: modified the code for SH1106 display, instead of SSD1306.
+EDIT: modified the code for SH1106 display 128x64, instead of SSD1306.
 
 # OpenGBW
 
